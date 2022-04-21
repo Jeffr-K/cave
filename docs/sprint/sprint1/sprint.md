@@ -1,13 +1,17 @@
 ### Sprint 1
 
-- [주제]
-- [기획]
-- [stack]
-
-  - example typescript
+- [][fix up cave project subject]
+- [][discussion of micro business model]
+- [][code convention]
 
 - [][build configuration]
+
   - [][android build setup]
   - [][ios build setup]
-- [][code convention]()
-- [][github collaborate strategy]
+
+- [][github workflow]
+
+  - [][work flow strategy]
+
+    - [][branch strategy] git-flow
+    - [][merge strategy] rebase

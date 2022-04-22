@@ -2,6 +2,6 @@
 
 #### 공부 방식
 
-- [][official documents]
+- [][official documents](https://react-query.tanstack.com/)
 
 #### Official documents

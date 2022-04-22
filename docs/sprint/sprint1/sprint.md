@@ -15,3 +15,4 @@
 
     - [][branch strategy] git-flow
     - [][merge strategy] rebase
+    
